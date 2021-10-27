@@ -20,10 +20,6 @@
 
 </p>
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 
 ## What I know:
 
