@@ -42,6 +42,7 @@
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="w3_html5" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="w3_css" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/52251474?v=4" alt="w3_css" width="40" height="40"/>
 </p>
 
 ###  Databases:
