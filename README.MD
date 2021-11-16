@@ -42,7 +42,7 @@
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="w3_html5" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="w3_css" width="40" height="40"/>
-<img src="https://avatars.githubusercontent.com/u/52251474?v=4" alt="w3_css" width="40" height="40"/>
+<img src="https://images.squarespace-cdn.com/content/v1/594ead87d2b857fe3a9b3dd8/1590191322593-FAM05A9YK12HZLQLEFGC/Video_Th_Qiskit.jpg?format=1000w" alt="w3_css" width="40" height="40"/>
 </p>
 
 ###  Databases:
