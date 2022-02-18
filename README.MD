@@ -24,7 +24,7 @@
 ## What I know:
 
 
-###  Programming Languages:
+###  Programming Languages and Frameworks:
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
@@ -40,6 +40,7 @@
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="w3_css" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="w3_html5" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="w3_css" width="40" height="40"/>
 <img src="https://pbs.twimg.com/profile_images/1327348581372575744/6M3Ll1hq_400x400.jpg" alt="w3_css" width="40" height="40"/>
