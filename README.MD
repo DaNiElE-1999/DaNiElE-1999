@@ -33,7 +33,7 @@
 <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="dotnet" width="40" height="40"/>
 <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"  width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg"  width="40" height="40"/>
-<img src="https://seeklogo.com/images/M/Mips-logo-2E08F51D41-seeklogo.com.gif"  width="40" height="40"/>
+
 </p>
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
@@ -44,7 +44,11 @@
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactJS" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="w3_html5" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="w3_css" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"  width="40" height="40"/>
+</p>
+<p align="center">
 <img src="https://pbs.twimg.com/profile_images/1327348581372575744/6M3Ll1hq_400x400.jpg" alt="w3_css" width="40" height="40"/>
+<img src="https://seeklogo.com/images/M/Mips-logo-2E08F51D41-seeklogo.com.gif"  width="40" height="40"/>
 </p>
 
 ###  Databases:
@@ -54,6 +58,7 @@
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="microsoft_azure" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="microsoft_azure" width="40" height="40"/>
 </p>
 
 ###  DevOps tools and Virtualization:
@@ -74,4 +79,4 @@
 
 ```
 
-Last Edited on: 18/02/2022
+Last Edited on: 23/02/2022
