@@ -1,3 +1,5 @@
+<p align="center">
+
 # GREATINGS ! 👋 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
@@ -11,6 +13,8 @@
 
 
 ## - 🗣️ I speak 
+
+</p>
 
 <p align="center">
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/joypixels/291/flag-albania_1f1e6-1f1f1.png"  width="40" height="40"/>
@@ -47,6 +51,8 @@
 <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"  width="40" height="40"/>
 </p>
 <p align="center">
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="w3_css" width="40" height="40"/>
 <img src="https://pbs.twimg.com/profile_images/1327348581372575744/6M3Ll1hq_400x400.jpg" alt="w3_css" width="40" height="40"/>
 <img src="https://seeklogo.com/images/M/Mips-logo-2E08F51D41-seeklogo.com.gif"  width="40" height="40"/>
 </p>
