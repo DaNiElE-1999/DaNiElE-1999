@@ -79,6 +79,12 @@
 <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
 </p>
 
+###  Testing and Automation:
+<p align="center">
+<img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="git-scm" width="45" height="45"/>
+<img src="https://logodix.com/logo/1978239.png" alt="githunb" width="45" height="45"/>
+</p>
+
 ###  Favorite Linux Distribution:
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat" width="40" height="40"/>
