@@ -83,6 +83,7 @@
 <p align="center">
 <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="git-scm" width="45" height="45"/>
 <img src="https://logodix.com/logo/1978239.png" alt="githunb" width="45" height="45"/>
+<img src="https://selectorshub.com/wp-content/uploads/2020/07/cropped-logo-512.png" width="45" height="45"/>
 </p>
 
 ###  Favorite Linux Distribution:
