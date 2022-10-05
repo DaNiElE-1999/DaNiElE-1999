@@ -1,14 +1,15 @@
 <p align="center">
-
-# GREATINGS ! 👋
-
-![](https://pa1.narvii.com/6206/15aaf2df57c83f50aec9f2a58d495c7927e8d256_hq.gif)
+<font size="7">GREATINGS ! 👋</font>
+</p>
+<p align="center">
+<img src="https://pa1.narvii.com/6206/15aaf2df57c83f50aec9f2a58d495c7927e8d256_hq.gif"  width="400" height="400"/>
+</p>
 
 ### 🤵 About Me
 
 - 🏫 I'm a DevOps & test automation engineer
 - ☕ I am a coffee addict
-- 🌱 I’m currently learning DevOps tools
+- 🌱 I’m currently learning Testing tools & Typescript
 - 🤖 I love Linux <3
 - 📅 **I'm Most Productive on Sunday**
 
