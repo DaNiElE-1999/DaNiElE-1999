@@ -1,18 +1,18 @@
 <p align="center">
 
-# GREATINGS ! 👋 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+# GREATINGS ! 👋
 
+![](https://pa1.narvii.com/6206/15aaf2df57c83f50aec9f2a58d495c7927e8d256_hq.gif)
 
-### 🤵 About Me:
-- 🏫 I'm an UNYT student
-- ☕ I use daily ```.java```
+### 🤵 About Me
+
+- 🏫 I'm a DevOps & test automation engineer
+- ☕ I am a coffee addict
 - 🌱 I’m currently learning DevOps tools
 - 🤖 I love Linux <3
-- 📅 **I'm Most Productive on Sunday** 
+- 📅 **I'm Most Productive on Sunday**
 
-
-## - 🗣️ I speak 
+## - 🗣️ I speak
 
 </p>
 
@@ -24,11 +24,10 @@
 
 </p>
 
+## What I know
 
-## What I know:
+### Programming Languages and Frameworks
 
-
-###  Programming Languages and Frameworks:
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
@@ -58,17 +57,19 @@
 <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg"  width="40" height="40"/>
 </p>
 
-###  Databases:
+### Databases
+
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
+<a href="https://www.freeiconspng.com/img/11352" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" width="40" alt="Free High quality Sql Server Icon" /></a>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="microsoft_azure" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="microsoft_azure" width="40" height="40"/>
 </p>
 
-###  DevOps tools and Virtualization:
+### DevOps tools and Virtualization
+
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git-scm" width="45" height="45"/>
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="githunb" width="45" height="45"/>
@@ -77,20 +78,27 @@
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="microsoft_azure" width="40" height="40"/>
 </p>
 
-###  Testing and Automation:
+### Testing and Automation
+
 <p align="center">
+<img src="https://raw.githubusercontent.com/actions/starter-workflows/51e3d515e95876eed0c47cd971e48fcf16c6705a/icons/powershell.svg" alt="git-scm" width="45" height="45"/>
 <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="git-scm" width="45" height="45"/>
 <img src="https://logodix.com/logo/1978239.png" alt="githunb" width="45" height="45"/>
 <img src="https://selectorshub.com/wp-content/uploads/2020/07/cropped-logo-512.png" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/5ef424a80d3966b7a9ca6623e5c5637f93f68aed/logos/cypress-icon.svg" width="45" height="45"/>
 </p>
 
-###  Favorite Linux Distribution:
+### Favorite Linux Distribution
+
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat" width="40" height="40"/>
 </p>
 
 ```
 
-Last Edited on: 06-March-2022
+Last Edited on: 5-October-2022
