@@ -21,10 +21,10 @@
 </p>
 
 <p align="center">
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/joypixels/291/flag-albania_1f1e6-1f1f1.png"  width="40" height="40"/>
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/joypixels/291/flag-clipperton-island_1f1e8-1f1f5.png"  width="40" height="40"/>
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/joypixels/291/flag-italy_1f1ee-1f1f9.png"  width="40" height="40"/>
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/joypixels/291/flag-united-states_1f1fa-1f1f8.png"  width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/800px-Flag_of_Albania.svg.png"  width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/800px-Flag_of_France.svg.png"  width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/800px-Flag_of_Italy.svg.png"  width="50" height="50"/>
+<img src="https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png"  width="50" height="50"/>
 
 </p>
 
