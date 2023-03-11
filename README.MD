@@ -1,5 +1,5 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
- <center> 
+<center> 
+ ![](https://komarev.com/ghpvc/?username=DaNiElE-1999&color=green)
  # GREATINGS ! 👋                             
  </center>
 <p align="center">
