@@ -3,8 +3,7 @@
 <center> 
 </center>
 <p align="center">
-<img src="https://pa1.narvii.com/6206/15aaf2df57c83f50aec9f2a58d495c7927e8d256_hq.gif"  width="400" height="400"/>
-![your-gif](https://pa1.narvii.com/6206/15aaf2df57c83f50aec9f2a58d495c7927e8d256_hq.gif){ width=100% }
+<img src="https://pa1.narvii.com/6206/15aaf2df57c83f50aec9f2a58d495c7927e8d256_hq.gif"  width="100%" height="400"/>
 
 </p>
 
