@@ -15,6 +15,7 @@
 - ☕ I am a coffee addict
 - 🌱 I’m currently learning Testing tools & Typescript
 - 🤖 I love Linux <3
+- 📫 [Reach Me](mailto:danielellazo@proton.me) : [danielellazo@proton.me](mailto:danielellazo@proton.me)
 - 📅 **I'm Most Productive on Sunday**
 
 ## - 🗣️ I speak
