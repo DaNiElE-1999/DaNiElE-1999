@@ -5,7 +5,7 @@
 <center> 
 </center>
 <p align="center">
-<img src="https://pa1.narvii.com/6206/15aaf2df57c83f50aec9f2a58d495c7927e8d256_hq.gif"  width="100%" height="100%"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazdwY2Zra2Y4b3FpenQ2cXprMm5kOGwzcTAwZDN2d2tjZGNldDN1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/74MLruEFGOjqGMBhzG/giphy.gif"  width="70%" height="100%"/>
 
 </p>
 
@@ -23,10 +23,9 @@
 </p>
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/800px-Flag_of_Albania.svg.png"  width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/800px-Flag_of_France.svg.png"  width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/800px-Flag_of_Italy.svg.png"  width="50" height="50"/>
-<img src="https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png"  width="50" height="50"/>
+<img src="./resources/1280px-Flag_of_Albania.svg.webp"  width="50" height="50"/>
+<img src="./resources/Flag_of_Italy.svg.png"  width="50" height="50"/>
+<img src="./resources/Flag_of_the_United_Kingdom_(3-5).svg.png"  width="50" height="50"/>
 
 </p>
 
@@ -37,8 +36,6 @@
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="go" width="50" height="40"/>
 
