@@ -23,9 +23,9 @@
 
 ## 🗣️ I Speak
 
-<div align="center">
+<p align="center">
 🇦🇱 Albanian &nbsp;&nbsp; 🇮🇹 Italian &nbsp;&nbsp; 🇬🇧 English
-</div>
+</p>
 
 ---
 
@@ -33,19 +33,27 @@
 
 ### 💻 Languages & Frameworks
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div align="center">
 
-<div><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40"/><br>Java</div>
-<div><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40"/><br>Python</div>
-<div><img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" width="50"/><br>Go</div>
-<div><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40"/><br>JavaScript</div>
-<div><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"/><br>Node.js</div>
-<div><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40"/><br>React</div>
-<div><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40"/><br>Vue</div>
-<div><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40"/><br>Express</div>
-<div><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40"/><br>HTML5</div>
-<div><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40"/><br>CSS3</div>
-<div><img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" width="40"/><br>YAML</div>
+<table>
+<tr>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="45"/><br>Java</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="45"/><br>Python</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" width="55"/><br>Go</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="45"/><br>JavaScript</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="45"/><br>Node.js</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="45"/><br>React</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="45"/><br>Vue</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="45"/><br>Express</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="45"/><br>HTML5</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="45"/><br>CSS3</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" width="45"/><br>YAML</td>
+<td></td>
+</tr>
+</table>
 
 </div>
 
@@ -53,13 +61,17 @@
 
 ### 🗄️ Databases
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div align="center">
 
-<div><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40"/><br>PostgreSQL</div>
-<div><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40"/><br>MongoDB</div>
-<div><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40"/><br>Oracle</div>
-<div><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/><br>SQLite</div>
-<div><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/><br>Firebase</div>
+<table>
+<tr>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="45"/><br>PostgreSQL</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="45"/><br>MongoDB</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45"/><br>Oracle</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45"/><br>SQLite</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/><br>Firebase</td>
+</tr>
+</table>
 
 </div>
 
@@ -67,15 +79,19 @@
 
 ### ⚙️ DevOps & Virtualization
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div align="center">
 
-<div><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45"/><br>Docker</div>
-<div><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45"/><br>Kubernetes</div>
-<div><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="45"/><br>Terraform</div>
-<div><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/><br>Jenkins</div>
-<div><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="45"/><br>Ansible</div>
-<div><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/><br>Git</div>
-<div><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="45"/><br>GitHub</div>
+<table>
+<tr>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50"/><br>Docker</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50"/><br>Kubernetes</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="50"/><br>Terraform</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50"/><br>Jenkins</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="50"/><br>Ansible</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/><br>Git</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50"/><br>GitHub</td>
+</tr>
+</table>
 
 </div>
 
@@ -83,10 +99,14 @@
 
 ### ☁️ Cloud Providers
 
-<div align="center" style="display: flex; gap: 30px; justify-content: center;">
+<div align="center">
 
-<div><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" width="90"/><br>Azure</div>
-<div><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="90"/><br>AWS</div>
+<table>
+<tr>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" width="100"/><br>Azure</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="100"/><br>AWS</td>
+</tr>
+</table>
 
 </div>
 
@@ -94,11 +114,15 @@
 
 ### 📈 Monitoring
 
-<div align="center" style="display: flex; gap: 20px; justify-content: center;">
+<div align="center">
 
-<div><img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="45"/><br>Datadog</div>
-<div><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="45"/><br>Grafana</div>
-<div><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="45"/><br>Prometheus</div>
+<table>
+<tr>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="50"/><br>Datadog</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50"/><br>Grafana</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="50"/><br>Prometheus</td>
+</tr>
+</table>
 
 </div>
 
@@ -106,22 +130,37 @@
 
 ### 🔐 Identity & Auth
 
-<div align="center" style="display: flex; gap: 20px; justify-content: center;">
+<div align="center">
 
-<div><img src="https://www.vectorlogo.zone/logos/okta/okta-ar21.svg" width="90"/><br>Okta</div>
-<div><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/f46843795d6f8cbe48b6e1aac1af4b3e53443bdd/svg/keycloak.svg" width="40"/><br>Keycloak</div>
+<table>
+<tr>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/okta/okta-ar21.svg" width="100"/><br>Okta</td>
+<td align="center"><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/f46843795d6f8cbe48b6e1aac1af4b3e53443bdd/svg/keycloak.svg" width="45"/><br>Keycloak</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-### 🐧 Favorite Linux
+### 🐧 Favorite Linux Distribution
 
 <div align="center">
-<img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="40"/><br>Arch Linux  
+<img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="45"/><br>
+<b>Arch Linux</b><br>
 <i>btw, I use Arch</i>
 </div>
 
 ---
 
-*Last updated: 2026*
+## 📊 GitHub Stats
+
+
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DaNiElE-1999&theme=tokyonight"/>
+</p>
+
+---
+
+*Last updated: May 2026*
