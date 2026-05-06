@@ -51,7 +51,6 @@
 <td align="center"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="45"/><br>HTML5</td>
 <td align="center"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="45"/><br>CSS3</td>
 <td align="center"><img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" width="45"/><br>YAML</td>
-<td></td>
 </tr>
 </table>
 
